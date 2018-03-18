@@ -29,4 +29,7 @@ Let your vision is no longer limited!
 - [ ] 阅后即焚 与 回收站
 
 # Tech-Stack
-
+ - Dva (React-Redux-Saga)
+ - Express
+ - Scrapy
+ - MongoDB
