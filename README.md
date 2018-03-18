@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# News-Horizon
+Let your vision is no longer limited!
 
-You can use the [editor on GitHub](https://github.com/Co-Advancer/News-Horizon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Why ?
+## Demand Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**1**.随着互联网的飞速发展，信息化时代的到来，人们每天都受到海量互联网资讯的冲击，有些可能正符合人们对外界新鲜事的"摄取"需求，然而更多的是一些垃圾信息，只会浪费时间。
 
-### Markdown
+我们并非难以改变现状。问题的关键在于，如何使用户获得他们想要的资讯？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在此，我们强调 “选择权”的反转。
 
-```markdown
-Syntax highlighted code block
+我们希望，用户能够自己选择需要的信息，只在必要的时候，向他们推送资讯。
 
-# Header 1
-## Header 2
-### Header 3
+**2**.阅读过的新闻，存在的价值大大降低；过多阅过的信息占据页面，总会降低体验。我们不希望它们占着有用的资讯版面的太多空间，怎么办？
 
-- Bulleted
-- List
+我们选择让新闻 “阅后即焚”。
 
-1. Numbered
-2. List
+而相较于新闻，技术好文、新鲜视点 即使阅读过，它们的价值并不会因此降低太多，我们让用户能够保留自己喜欢文章，未收藏的，同样的“阅后即焚”。
 
-**Bold** and _Italic_ and `Code` text
+遇到喜欢的文章忘了点收藏，新闻没看完不小心退出了？我们保留了最近的几篇被“焚”的文章，您可以在回收站找回它们。
 
-[Link](url) and ![Image](src)
-```
+# Aim
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [ ] 热点新闻的实时推送
+- [ ] 用户可根据自己喜好点赞或收藏(技术文章)
+- [ ] 根据用户的足迹和喜好, 推荐资讯
+- [ ] 用户也可撰写文章（单独一个板块[被踩过多则会折叠]）
+- [ ] 阅后即焚 与 回收站
 
-### Jekyll Themes
+# Tech-Stack
+ - Dva (React-Redux-Saga)
+ - Express
+ - Scrapy
+ - MongoDB
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Co-Advancer/News-Horizon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# LICENSE
+ FROM [MIT](https://tldrlegal.com/license/mit-license)
