@@ -38,7 +38,7 @@ Make it easier for you to get useful information...
 
 ## 爬取的内容如何分类?
 
-- [] 待补充
+- [ ] 待补充
 
 ## 如何推断用户的喜好?
 
