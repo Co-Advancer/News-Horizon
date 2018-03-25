@@ -57,6 +57,7 @@ Make it easier for you to get useful information...
 ## 分工
 前端:
  - [@zhwe1y](https://github.com/zhwe1y) (文章列表展示[分类、分页], 文章详情展示, 后台管理页面 , 用户详情页, 下拉刷新)   <br>
+
 后台:
  - 爬虫[@YukinoX](https://github.com/YuKinoX) (爬取主流资讯网站、技术社区的技术博客) + 爬取的同时分类存储
  - 推荐[@freemansj](https://github.com/freemansj) (input: 用户id、请求页数+每页文章数 => output:文章数组 )
