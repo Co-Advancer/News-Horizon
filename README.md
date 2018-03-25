@@ -1,5 +1,5 @@
 # News-Horizon
-Let your vision is no longer limited!
+Make it easier for you to get useful information...
 
 # Why ?
 ## Demand Analysis
@@ -22,11 +22,21 @@ Let your vision is no longer limited!
 
 # Aim
 
-- [ ] 热点新闻的实时推送
+- [ ] 热点新闻的实时更新
 - [ ] 用户可根据自己喜好点赞或收藏(技术文章)
 - [ ] 根据用户的足迹和喜好, 推荐资讯
 - [ ] 用户也可撰写文章（单独一个板块[被踩过多则会折叠]）
 - [ ] 阅后即焚 与 回收站
+
+# How to achieve
+
+## 如何实现实时更新？
+
+## 如何推断用户的喜好？
+
+## 如何根据用户的喜好推荐相关内容？
+
+## 如何实现"阅后即焚"？
 
 # Tech-Stack
  - Dva (React-Redux-Saga)
