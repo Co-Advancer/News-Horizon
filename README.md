@@ -43,10 +43,14 @@ Make it easier for you to get useful information...
 2.记录用户的点击情况, 点击一篇文章, 文章相应的分类的权重 +1 <br>
 3.当用户点击收藏时, 相应的分类的权重 +n <br>
 4.当用户点击 "踩" 时, 相应的文章的分类的权重 -2 <br>
- 
-## 如何根据用户的喜好推荐相关内容？
 
 ## 如何实现"阅后即焚"？
+
+## 分工
+前端:   <br>
+后台:
+ - 爬虫(主流资讯网站、技术社区)
+ - 推荐(input: 用户id、请求页数+每页文章数 => output:文章数组 )
 
 # Tech-Stack
  - Dva (React-Redux-Saga)
